@@ -1,6 +1,6 @@
 # File Explorer Application (C++)
 
-A console-based File Explorer developed as part of the Capstone Project for CSE 3652.
+A console-based File Explorer developed as part of the Capstone Project
 
 ## Features
 - List, create, delete, copy, and move files and directories
